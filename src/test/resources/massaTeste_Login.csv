@@ -1,0 +1,3 @@
+nomeTeste;email;password;nomeUsuario;resultado
+loginValido;henrique@teste.com;henrique;Henrique Silva;positivo
+loginInvalido;henrique@teste.com;teste123;Henrique Silva;negativo
