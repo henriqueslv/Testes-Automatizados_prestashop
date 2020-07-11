@@ -33,7 +33,7 @@ O projeto foi realizado utilizando as seguintes tecnologias:
 - Validar dados ao incluir um produto no carrinho.
 - Validar endereço e forma de pagamento.
 - Validar todas as informações ao finalizar o pedido.
-- Por fim, emitir um relatório no formato html.
+- Por fim, emitir um relatório no formato html, utilizando o Cucumber.
 
 
 
